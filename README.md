@@ -2,7 +2,7 @@
 
 #### Interests: Still trying all the fields available. But currently; intrested in devoloping apps in flutter and also intrested in developing web apps
 
-<h3 align="left">Here are few skills I know:</h3>
+<h3 align="left">Here are the skills that I know:</h3>
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
