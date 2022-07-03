@@ -1,8 +1,6 @@
 ## ( ﾟдﾟ)つHi
 
-#### Intrests: Still trying all the feilds available but currently I am intrested in devoloping apps in flutter and I am also intrested in developing web apps
-
----
+#### Interests: Still trying all the fields available. But currently; intrested in devoloping apps in flutter and also intrested in developing web apps
 
 <h3 align="left">Here are few skills I know:</h3>
 <p align="left">
