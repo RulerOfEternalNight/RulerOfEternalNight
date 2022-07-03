@@ -1,21 +1,25 @@
-### Hi there 👋
+## ( ﾟдﾟ)つHi
 
+#### Intrests: Still trying all the feilds available but currently I am intrested in devoloping apps in flutter and I am also intrested in developing web apps
+
+---
+
+<h3 align="left">Here are few skills I know:</h3>
+<p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="Javascript" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=dracula" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <!--
 **j3gadit/j3gadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
