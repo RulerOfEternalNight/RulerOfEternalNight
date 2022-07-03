@@ -10,6 +10,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
    <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="Javascript" width="40" height="40"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
