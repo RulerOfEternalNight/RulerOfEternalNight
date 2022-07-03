@@ -14,7 +14,7 @@
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=dracula" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=Gradient" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
