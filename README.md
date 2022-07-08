@@ -14,12 +14,13 @@
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
-[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
+
+[![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/sridhar-5/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=jegadit&color=green)
 
