@@ -20,7 +20,7 @@
 
 [![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
 
-[![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/sridhar-5/github-profile-trophy)
+[![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/jegadit/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=jegadit&color=green)
 
