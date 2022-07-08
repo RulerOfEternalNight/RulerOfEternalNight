@@ -14,7 +14,7 @@
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
-![Jegadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=chartreuse-dark)
+[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
