@@ -12,7 +12,7 @@
    <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="Javascript" width="40" height="40"/>
    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="30" height="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
