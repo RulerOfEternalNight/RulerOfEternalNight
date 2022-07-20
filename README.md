@@ -25,7 +25,7 @@
     <td>8.5/10</td>
     <td>7/10</td>
     <td>5.5/10</td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9/10</td>
+    <td>9/10&nbsp;&nbsp;&nbsp;&nbsp;9/10&nbsp;&nbsp;&nbsp;5/10</td>
     <td>6.5/10</td>
     <td>6/10</td>
     <td>5.5/10</td>
