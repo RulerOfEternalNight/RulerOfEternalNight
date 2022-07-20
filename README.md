@@ -44,7 +44,7 @@
     <td>7.5/10</td>
   </tr>
   <tr>
-    <td><img src="https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png" alt="Arduino" width="35" height="35"/></td>
+    <td><img src="https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png" alt="Arduino" width="40" height="40"/></td>
     <td>7.5/10</td>
   </tr>
 </table>
