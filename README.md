@@ -5,7 +5,7 @@
 <h3 align="left">Here are the skills that I know:</h3>
 <table>
   <tr>
-    <td>Technology</td>
+    <td><b>Technology</b></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
@@ -21,7 +21,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="30"/></td>
   </tr>
   <tr>
-    <td>Expertise Level</td>
+    <td><b>Expertise Level</b></td>
     <td>8.5/10</td>
     <td>7/10</td>
     <td>5.5/10</td>
