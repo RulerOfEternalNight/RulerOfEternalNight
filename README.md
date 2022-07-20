@@ -43,6 +43,10 @@
     <td><img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/></td>
     <td>7.5/10</td>
   </tr>
+  <tr>
+    <td><img src="https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png" alt="Arduino" width="35" height="35"/></td>
+    <td>7.5/10</td>
+  </tr>
 </table>
 
 <!--
