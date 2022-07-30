@@ -1,4 +1,15 @@
-## ( ﾟдﾟ)つHi
+## ( ﾟдﾟ)つHi.
+
+<a href="#">
+  <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
+</a>
+<a href="#">
+  <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
+</a>
+<a href="#">
+  <img align="left" width="29px" src="https://www.bootgum.com/wp-content/uploads/2018/07/Email_Open_550px-1.gif" />
+</a>
+<br/>
 
 #### Interests: Still trying all fields possibly available. But currently; Interested in developing apps in flutter and also interested in developing web apps.
 
