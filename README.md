@@ -63,7 +63,7 @@
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact&langs_count=10&hide=coq,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact&langs_count=10&hide=coq,Assembly,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
 
