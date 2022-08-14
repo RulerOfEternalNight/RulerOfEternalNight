@@ -1,7 +1,5 @@
 ## ( ﾟдﾟ)つHi.
 
-[!logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 <a href="#">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
@@ -27,7 +25,7 @@
     <td><img src="https://img.icons8.com/color/452/javascript--v1.png" alt="Javascript" width="40" height="40"/></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></td>
     <td><img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/6996/6996035.png" alt="shellScripting" width="35" height="35"/></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="30"/></td>
   </tr>
