@@ -61,6 +61,7 @@
    <br/>
    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/>
    <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
