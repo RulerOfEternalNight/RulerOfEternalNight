@@ -56,7 +56,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
    <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="Javascript" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="30"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="30" height="30"/>
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
    <br/>
    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/>
