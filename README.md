@@ -60,7 +60,7 @@
    <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/>
    <br/>
    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="30"/>
    <img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/>
 </p>
 
