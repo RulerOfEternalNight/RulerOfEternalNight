@@ -29,7 +29,7 @@
     <td><img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/6996/6996035.png" alt="shellScripting" width="35" height="35"/></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/900/900618.png" alt="Verilog" width="35" height="35"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="35" height="30"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="30" height="30"/></td>
   </tr>
   <tr>
     <td><b>Expertise Level</b></td>
