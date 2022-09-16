@@ -6,7 +6,7 @@
 <a href="#">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
 </a>
-<a href="jegaditssaravanan@yahoo.com">
+<a href="mailto:jegaditssaravanan@yahoo.com">
   <img align="left" width="29px" src="https://www.bootgum.com/wp-content/uploads/2018/07/Email_Open_550px-1.gif" />
 </a>
 <br/>
