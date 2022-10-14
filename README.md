@@ -73,7 +73,3 @@
 [![Jegadit's github trophy](https://github-profile-trophy.vercel.app/?username=jegadit&row=1&margin-w=5)](https://github.com/jegadit/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=jegadit&color=green)
-
-<!--
-**j3gadit/j3gadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
