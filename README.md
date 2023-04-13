@@ -13,7 +13,7 @@
 
 <br/>
 
-#### Love to design, develop, and deploy machine learning models to tackle complex real-world problems and am also interested in developing applications using Flutter and Flask Framework.
+#### Love to design, develop, and deploy ML/DL models to tackle complex real-world problems and am also interested in developing applications using Flutter and Flask Framework.
 
 
 ## 🛠️ Skills/Working With
