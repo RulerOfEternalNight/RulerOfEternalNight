@@ -11,7 +11,8 @@
 </a>
 <br/>
 
-#### Interests: Still trying all fields possibly available. But currently; Interested in developing apps in flutter and also interested in developing web apps.
+
+#### Interests: Love to design, develop, and deploy machine learning models to tackle complex real-world problems and am also interested in developing applications using Flutter and Flask Framework.
 
 
 ## 🛠️ Skills/Working With
