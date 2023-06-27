@@ -115,7 +115,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RulerOfEternalNight&layout=compact&langs_count=10&hide=coq,Assembly,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RulerOfEternalNight&theme=dracula)](https://github.com/jegadit)
+[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RulerOfEternalNight&theme=dracula)](https://github.com/RulerOfEternalNight)
 
 [![Jegadit's github trophy](https://github-profile-trophy.vercel.app/?username=RulerOfEternalNight&row=1&margin-w=5)](https://github.com/jegadit/github-profile-trophy)
 
