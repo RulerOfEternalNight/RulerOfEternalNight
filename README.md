@@ -111,12 +111,12 @@
 </p>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=jegadit&show_icons=true&theme=aura_dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=RulerOfEternalNight&show_icons=true&theme=aura_dark" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegadit&layout=compact&langs_count=10&hide=coq,Assembly,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RulerOfEternalNight&layout=compact&langs_count=10&hide=coq,Assembly,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
+[![Jegadit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RulerOfEternalNight&theme=dracula)](https://github.com/jegadit)
 
-[![Jegadit's github trophy](https://github-profile-trophy.vercel.app/?username=jegadit&row=1&margin-w=5)](https://github.com/jegadit/github-profile-trophy)
+[![Jegadit's github trophy](https://github-profile-trophy.vercel.app/?username=RulerOfEternalNight&row=1&margin-w=5)](https://github.com/jegadit/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=jegadit&color=green)
+![](https://komarev.com/ghpvc/?username=RulerOfEternalNight&color=green)
