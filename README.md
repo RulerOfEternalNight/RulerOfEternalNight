@@ -1,5 +1,7 @@
 ## ヾ(⌐■_■)ノ♪ Hi.
 
+# My name is Jegadit S Saravanan, a Computer Science and Engineering student.
+
 <a href="https://www.linkedin.com/in/jegadit-s-saravanan-204007217/">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
